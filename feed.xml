@@ -19,6 +19,23 @@
             <description>El RCD Mallorca ha fichado a un delantero internacional para reforzar su ataque en la segunda mitad de la temporada.</description>
             <pubDate>Fri, 31 Ene 2025 10:00:00 GMT</pubDate>
         </item>
-
+        <item>
+        <title>El RCD Mallorca i NDL Pro Health unen fuerzas para potenciar el rendimiento deportivo</title>
+        <link>https://www.rcdmallorca.es/noticias/el-rcd-mallorca-y-ndl-pro-health-unen-fuerzas-para-potenciar-el-rendimiento-deportivo</link>
+        <description>El RCD Mallorca i NDL Pro Health anuncian una nueva colaboración para mejorar el rendimiento de los jugadores.</description>
+        <pubDate>Mon, 12 Feb 2025 08:00:00 +0100</pubDate>
+        <author>RCD Mallorca</author>
+        <category>Destacados</category>
+        <enclosure url="https://www.rcdmallorca.es/images/news/ndl_pro_health_collaboration.jpg" type="image/jpeg" />
+        </item>
+    
+        <item>
+        <title>Les noves incorporacions del RCD Mallorca</title>
+        <link>https://mallorkings.es/noticies/nuevas-incorporaciones</link>
+        <description>El RCD Mallorca presenta las nuevas incorporaciones para esta segunda vuelta.</description>
+        <pubDate>Tue, 13 Feb 2025 14:30:00 +0100</pubDate>
+        <author>RCD Mallorca</author>
+        <category>Traspasos</category>
+        </item>
     </channel>
 </rss>
