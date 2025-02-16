@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias del RCD Mallorca</title>
+        <link>https://www.mallorkings.es</link>
+        <description>Últimas noticias del RCD Mallorca</description>
+        <language>es</language>
+
+        <item>
+            <title>El RCD Mallorca vence al UD Las Palmas</title>
+            <link>https://www.mallorkings.es/noticia1</link>
+            <description>El RCD Mallorca ha logrado una victoria crucial en casa frente al UD Las Palmas, acercándose a los puestos europeos de La Liga.</description>
+            <pubDate>Wed, 19 Ene 2025 18:30:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>El Mallorca refuerza su ataque</title>
+            <link>https://www.mallorkings.es/noticia2</link>
+            <description>El RCD Mallorca ha fichado a un delantero internacional para reforzar su ataque en la segunda mitad de la temporada.</description>
+            <pubDate>Fri, 31 Ene 2025 10:00:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>
