@@ -38,8 +38,7 @@
             <pubDate>Tue, 13 Feb 2025 14:30:00 GMT</pubDate>
             <guid>https://www.mallorkings.es/noticies/nuevas-incorporaciones</guid>
         </item>
-
-        <!-- Añadimos el enlace de atom:link con rel="self" -->
+        
         <atom:link href="https://www.mallorkings.es/feed.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
