@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Noticias del RCD Mallorca</title>
         <link>https://www.mallorkings.es</link>
+        <atom:link href="https://mallorkings/feed" rel="self" type="application/rss+xml" />
         <description>Últimas noticias del RCD Mallorca</description>
         <language>es</language>
 
@@ -28,7 +29,7 @@
             <description>El RCD Mallorca i NDL Pro Health anuncian una nueva colaboración para mejorar el rendimiento de los jugadores.</description>
             <pubDate>Wed, 12 Feb 2025 08:00:00 GMT</pubDate>
             <guid>https://www.rcdmallorca.es/noticias/el-rcd-mallorca-y-ndl-pro-health-unen-fuerzas-para-potenciar-el-rendimiento-deportivo</guid>
-            <enclosure url="https://www.rcdmallorca.es/images/news/ndl_pro_health_collaboration.jpg" type="image/jpeg"/>
+            <enclosure url="https://www.rcdmallorca.es/images/news/ndl_pro_health_collaboration.jpg" type="image/jpeg" lenght="1000"/>
         </item>
 
         <item>
