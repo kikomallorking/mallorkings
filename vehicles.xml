@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="styles.xsl"?>
+<concessionari>
+  <vehicle id="V001">
+    <marca>Tesla</marca>
+    <model>Model S</model>
+    <any>2022</any>
+    <tipus>Elèctric</tipus>
+    <preu>85000</preu>
+    <autonomia>600</autonomia>
+    <potencia>670</potencia>
+    <consum>ECO</consum>
+    <features>Autopilot, Pantalla tàctil 17"</features>
+    <imagen>https://evmotions.es/evcarspics/tesla-model-s-min.png</imagen>
+  </vehicle>
+  <vehicle id="V002">
+    <marca>Toyota</marca>
+    <model>RAV4</model>
+    <any>2021</any>
+    <tipus>SUV</tipus>
+    <preu>35000</preu>
+    <autonomia>0</autonomia>
+    <potencia>203</potencia>
+    <consum>B</consum>
+    <imagen>https://www.buyatoyota.com/sharpr/bat/assets/img/vehicle-info/RAV4_Hybrid/2021/hero_image_rav4hybrid.png</imagen>
+  </vehicle>
+  <vehicle id="V003">
+    <marca>Mercedes</marca>
+    <model>EQC</model>
+    <any>2023</any>
+    <tipus>Elèctric</tipus>
+    <preu>72000</preu>
+    <autonomia>450</autonomia>
+    <potencia>408</potencia>
+    <consum>ECO</consum>
+    <features>Carregament ràpid</features>
+    <imagen>https://images.hgmsites.net/hug/2023-mercedes-benz-eqe_100862733_h.jpg</imagen>
+  </vehicle>
+  <vehicle id="V004">
+    <marca>Ford</marca>
+    <model>Focus</model>
+    <any>2020</any>
+    <tipus>Sedan</tipus>
+    <preu>23000</preu>
+    <autonomia>0</autonomia>
+    <potencia>125</potencia>
+    <consum>A</consum>
+    <imagen>https://www.gpas-cache.ford.com/guid/3c3e2039-651c-396c-9d4a-9341fa79386b.png</imagen>
+  </vehicle>
+  <vehicle id="V005">
+    <marca>Hyundai</marca>
+    <model>Kona Electric</model>
+    <any>2022</any>
+    <tipus>Elèctric</tipus>
+    <preu>42000</preu>
+    <autonomia>484</autonomia>
+    <potencia>204</potencia>
+    <consum>ECO</consum>
+    <imagen>https://media.somoselectricos.com/wp-content/uploads/2021/02/hyundai-kona-electric-2022-trasera-1024x512.jpg</imagen>
+  </vehicle>
+  <vehicle id="V006">
+    <marca>Nissan</marca>
+    <model>Leaf</model>
+    <any>2021</any>
+    <tipus>Elèctric</tipus>
+    <preu>32000</preu>
+    <autonomia>380</autonomia>
+    <potencia>150</potencia>
+    <consum>ECO</consum>
+    <features>Suite NissanConnect</features>
+    <imagen>https://www.autopista.es/uploads/s1/83/24/55/8/leaf10-sv-001.jpeg</imagen>
+  </vehicle>
+  <vehicle id="V007">
+    <marca>BMW</marca>
+    <model>iX</model>
+    <any>2023</any>
+    <tipus>Elèctric</tipus>
+    <preu>90000</preu>
+    <autonomia>500</autonomia>
+    <potencia>500</potencia>
+    <consum>ECO</consum>
+    <imagen>https://www.cocheselectricos100x100.com/wp-content/uploads/2024/02/BMW.ix_.xdrive50.black_.jpeg</imagen>
+  </vehicle>
+  <vehicle id="V008">
+    <marca>Audi</marca>
+    <model>Q4 e-tron</model>
+    <any>2022</any>
+    <tipus>Elèctric</tipus>
+    <preu>55000</preu>
+    <autonomia>450</autonomia>
+    <potencia>300</potencia>
+    <consum>ECO</consum>
+    <imagen>https://carnovo.com/wp-content/uploads/2021/04/audi-q4-etron.jpg</imagen>
+  </vehicle>
+  <vehicle id="V009">
+    <marca>Kia</marca>
+    <model>Sportage</model>
+    <any>2021</any>
+    <tipus>SUV</tipus>
+    <preu>34000</preu>
+    <autonomia>0</autonomia>
+    <potencia>180</potencia>
+    <consum>B</consum>
+    <features>Techo solar</features>
+    <imagen>https://phantom-marca.unidadeditorial.es/a8191962b0f7c0caec3d3c0f81299cf3/resize/828/f/jpg/assets/multimedia/imagenes/2021/06/09/16232201983640.jpg</imagen>
+  </vehicle>
+  <vehicle id="V010">
+    <marca>Volvo</marca>
+    <model>XC40</model>
+    <any>2022</any>
+    <tipus>SUV</tipus>
+    <preu>40000</preu>
+    <autonomia>0</autonomia>
+    <potencia>250</potencia>
+    <consum>A</consum>
+    <imagen>https://images.forococheselectricos.com/image/l/1320w/wp-content/uploads/2022/03/volvo-xc40-2022-202285401-1646427366_11-1.jpg</imagen>
+  </vehicle>
+</concessionari>  
